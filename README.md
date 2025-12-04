@@ -49,7 +49,7 @@
 |---------|-------------|--------|
 | [GlowUp Front](https://github.com/yasmiine1/FrontGlowUpApp.git) / [GlowUp Back](https://github.com/malekbenhassine/backGlowUpApp.git) | Mobile app built with Flutter & Spring Boot | 🔄 In progress |
 | [eventGo](https://github.com/malekbenhassine/proje-eventgo-node-flutter.git) | Mobile app built with Flutter & Node.js | 🔄 In progress |
-| [projet-eco-action](https://github.com/malekbenhassine/projet-eco-action) | Mobile app built with Android Studio & Firebase | 🔄 In progress |
+| [projet-eco-action](https://github.com/malekbenhassine/projetEcoAction.git) | Mobile app built with Android Studio & Firebase | 🔄 In progress |
 
 ---
 
@@ -62,5 +62,5 @@
 ---
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malek-ben-hassine)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malek-ben-hassine-053106287/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGQvitr44QDmUuKJPVuUj5Q%3D%3D)
 [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benhassinemelek33@gmail.com)
