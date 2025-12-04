@@ -47,7 +47,7 @@
 ## 🚀 Current Projects
 | Project | Description | Status |
 |---------|-------------|--------|
-| [GlowUp Front][(https://github.com/malekbenhassine/glowup-frontend)](https://github.com/yasmiine1/FrontGlowUpApp.git) / [GlowUp Back][(https://github.com/malekbenhassine/glowup-backend)](https://github.com/malekbenhassine/backGlowUpApp.git) | Mobile app built with Flutter & Spring Boot | 🔄 In progress |
+| [GlowUp Front](https://github.com/yasmiine1/FrontGlowUpApp.git) / [GlowUp Back](https://github.com/malekbenhassine/glowup-backend)(https://github.com/malekbenhassine/backGlowUpApp.git) | Mobile app built with Flutter & Spring Boot | 🔄 In progress |
 | [eventGo](https://github.com/malekbenhassine/eventgo) | Mobile app built with Flutter & Node.js | 🔄 In progress |
 | [projet-eco-action](https://github.com/malekbenhassine/projet-eco-action) | Mobile app built with Android Studio & Firebase | 🔄 In progress |
 
