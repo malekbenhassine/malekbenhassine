@@ -151,21 +151,6 @@ The platform combines **full stack development**, **microservices architecture**
 ✔ Communicate clearly in English, French and Arabic
 ```
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-![Malek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=malekbenhassine\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malekbenhassine\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malekbenhassine\&theme=tokyonight\&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
