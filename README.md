@@ -1,158 +1,168 @@
-# Hello, I'm Malek Ben Hassine
-
 <div align="center">
 
-### ⟡ Full Stack Developer · Information Systems Student · AI-Powered Applications
-
-![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Development-0f172a?style=for-the-badge)
-![Information Systems](https://img.shields.io/badge/Information%20Systems-334155?style=for-the-badge)
-![AI Applications](https://img.shields.io/badge/AI%20Applications-1e3a8a?style=for-the-badge)
-
-</div>
-
----
-
-## ⌁ About Me
-
-I am an **Information Systems Development student** with a strong interest in building modern, useful and scalable digital solutions.
-
-I work on **web and mobile applications**, from user interfaces to backend services, databases, authentication systems and intelligent features such as prediction, recommendation and automation.
-
-```text
-Focus areas: Full Stack Development · Business Applications · AI-Powered Platforms · Data-Driven Systems
+```
+██████╗ ██████╗ ███████╗ ██████╗██╗ ██████╗ ███████╗
+██╔══██╗██╔══██╗██╔════╝██╔════╝██║██╔═══██╗██╔════╝
+██████╔╝██████╔╝█████╗  ██║     ██║██║   ██║███████╗
+██╔═══╝ ██╔══██╗██╔══╝  ██║     ██║██║   ██║╚════██║
+██║     ██║  ██║███████╗╚██████╗██║╚██████╔╝███████║
+╚═╝     ╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝ ╚═════╝ ╚══════╝
 ```
 
-* ⟡ Information Systems Development Student
-* ⟡ Full Stack Developer
-* ⟡ Interested in intelligent platforms, automation and business-oriented software
-* ⟡ Email: [benhassinemelek33@gmail.com](mailto:benhassinemelek33@gmail.com)
-* ⟡ LinkedIn: [Malek Ben Hassine](https://www.linkedin.com/in/malek-ben-hassine-053106287/)
+### Malek Ben Hassine
+**Full Stack Developer · AI-Powered Applications · Information Systems**
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Building+intelligent+web+%26+mobile+platforms;FastAPI+%7C+React+%7C+Spring+Boot+%7C+Python;AI+demand+forecasting+with+XGBoost;Microservices+%7C+Docker+%7C+JWT+%7C+RBAC)](https://git.io/typing-svg)
 
-## ◈ Technical Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-3b4252?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-3b4252?style=for-the-badge\&logo=javascript\&logoColor=facc15)
-![TypeScript](https://img.shields.io/badge/TypeScript-3b4252?style=for-the-badge\&logo=typescript\&logoColor=60a5fa)
-![Python](https://img.shields.io/badge/Python-3b4252?style=for-the-badge\&logo=python\&logoColor=fbbf24)
-![C](https://img.shields.io/badge/C-3b4252?style=for-the-badge\&logo=c\&logoColor=93c5fd)
-![PHP](https://img.shields.io/badge/PHP-3b4252?style=for-the-badge\&logo=php\&logoColor=c4b5fd)
-![Kotlin](https://img.shields.io/badge/Kotlin-3b4252?style=for-the-badge\&logo=kotlin\&logoColor=f97316)
-
-### Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge\&logo=react\&logoColor=67e8f9)
-![Angular](https://img.shields.io/badge/Angular-111827?style=for-the-badge\&logo=angular\&logoColor=f87171)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge\&logo=springboot\&logoColor=86efac)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge\&logo=fastapi\&logoColor=5eead4)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge\&logo=node.js\&logoColor=86efac)
-![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge\&logo=express\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-111827?style=for-the-badge\&logo=flutter\&logoColor=7dd3fc)
-![React Native](https://img.shields.io/badge/React%20Native-111827?style=for-the-badge\&logo=react\&logoColor=67e8f9)
-
-### Databases & Tools
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2937?style=for-the-badge\&logo=postgresql\&logoColor=93c5fd)
-![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=for-the-badge\&logo=mysql\&logoColor=60a5fa)
-![Oracle](https://img.shields.io/badge/Oracle-1f2937?style=for-the-badge\&logo=oracle\&logoColor=f87171)
-![MongoDB](https://img.shields.io/badge/MongoDB-1f2937?style=for-the-badge\&logo=mongodb\&logoColor=86efac)
-![Firebase](https://img.shields.io/badge/Firebase-1f2937?style=for-the-badge\&logo=firebase\&logoColor=facc15)
-
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge\&logo=docker\&logoColor=7dd3fc)
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge\&logo=git\&logoColor=fb7185)
-![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-## ⧉ Featured Project
-
-### Precios — Intelligent Stock Management & Pricing Platform
-
-**Precios** is my final year project. It is an intelligent platform designed to help businesses manage stock, analyze sales, monitor competitors, predict demand and support pricing decisions.
-
-The platform combines **full stack development**, **microservices architecture**, **artificial intelligence**, **data analysis** and **competitive intelligence**.
-
-> The source code is private due to confidentiality requirements.
-> A public overview is available with the main features, architecture, technologies and screenshots.
-
-<div align="center">
-
-[![View Project Overview](https://img.shields.io/badge/View%20Project%20Overview-Precios-0f172a?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/malekbenhassine/Precios-Intelligent-Stock-Pricing-Platform)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malek-ben-hassine-053106287/)
+[![Email](https://img.shields.io/badge/Email-benhassinemelek33@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benhassinemelek33@gmail.com)
+[![Portfolio](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malekbenhassine)
 
 </div>
 
-### Core Features
+---
 
-* ⟡ Stock management and product tracking
-* ⟡ Sales analysis and business KPIs
-* ⟡ Weekly demand prediction using AI
-* ⟡ Intelligent price recommendation
-* ⟡ Promotion recommendation system
-* ⟡ Competitor price monitoring
-* ⟡ Stock risk detection: rupture, overstock and slow-moving products
-* ⟡ Role-based access control with JWT authentication
-* ⟡ Dockerized microservices architecture
+## 🧑‍💻 Who I Am
 
-### Technical Highlights
+> *"I don't just write code — I build systems that think."*
 
-| Area         | Details                                                 |
-| ------------ | ------------------------------------------------------- |
-| Frontend     | React, Vite, TypeScript                                 |
-| Backend      | FastAPI, Python, REST APIs                              |
-| Database     | PostgreSQL                                              |
-| AI           | XGBoost, demand forecasting, recommendation logic       |
-| Architecture | Microservices, API Gateway, Docker                      |
-| Security     | JWT Authentication, RBAC                                |
-| Data         | Sales analysis, stock indicators, competitor monitoring |
+I'm a **Final Year Information Systems student** with a strong passion for building **scalable, production-ready applications** that solve real business problems. My work sits at the intersection of **web engineering, AI/ML, and clean architecture**.
+
+- 🎓 Graduating in **Information Systems Development**
+- 🤖 Building AI-integrated platforms with **XGBoost, FastAPI & React**
+- 🏗️ Architecting **microservices systems** with Docker, JWT & RBAC
+- 🌍 Working across the full stack: frontend, backend, mobile, databases, and ML pipelines
+- 🔍 Currently focused on **intelligent pricing & stock management platforms**
 
 ---
 
-## ◌ Completed Projects
+## 🚀 Featured Project — Precios
 
-| Project                                                                                                                               | Description                                       | Technologies             |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------ |
-| [GlowUp Front](https://github.com/yasmiine1/FrontGlowUpApp.git) / [GlowUp Back](https://github.com/malekbenhassine/backGlowUpApp.git) | Beauty and wellness mobile application            | Flutter, Spring Boot     |
-| [eventGo](https://github.com/malekbenhassine/proje-eventgo-node-flutter.git)                                                          | Event management mobile application               | Flutter, Node.js         |
-| [projet-eco-action](https://github.com/malekbenhassine/projetEcoAction.git)                                                           | Eco-action mobile application                     | Android Studio, Firebase |
-| [Projet Rapido Sport](https://github.com/malekbenhassine/projet-rapido-sport.git)                                                     | Sports club management web application            | Angular, Spring Boot     |
-| [Projet Canta Angular](https://github.com/malekbenhassine/Projet_Canta_Angular.git)                                                   | E-commerce website for selling bags online        | Angular                  |
-| [Projet Credit Vermeg](https://github.com/malekbenhassine/projet-credit-vermeg.git)                                                   | Credit management system for an agricultural bank | Angular, Spring Boot     |
-| [Projet Mediplus Spring Boot](https://github.com/malekbenhassine/projet-mediplus-springboot.git)                                      | Backend system for medical appointment management | Spring Boot              |
+> **The platform that turns raw stock data into intelligent business decisions.**
+
+**Precios** is my capstone project — an end-to-end intelligent platform that helps companies manage inventory, monitor competitors, forecast demand, and optimize pricing automatically using machine learning.
+
+```
+┌─────────────────────────────────────────────────────┐
+│                    PRECIOS PLATFORM                 │
+│                                                     │
+│  React Frontend  ←→  FastAPI Backend  ←→  XGBoost  │
+│       ↓                   ↓                 ↓      │
+│  TypeScript UI      PostgreSQL DB      AI Forecast  │
+│       ↓                   ↓                 ↓      │
+│   JWT Auth          Docker Compose    Price Reco.   │
+└─────────────────────────────────────────────────────┘
+```
+
+| Layer | Repository | Stack |
+|-------|-----------|-------|
+| 🎨 Frontend | [Precios Frontend](https://github.com/azza-attia/Precios_Frontend.git) | React · Vite · TypeScript |
+| ⚙️ Backend | [Smart Stock Management](https://github.com/malekbenhassine/smart-stock-management-and-pricing.git) | FastAPI · PostgreSQL · Docker |
+
+### ✅ What Precios Does
+
+| Feature | Description |
+|---------|-------------|
+| 📦 Stock Management | Real-time product tracking with rupture, overstock & slow-mover alerts |
+| 🤖 AI Demand Forecast | Weekly demand prediction via **XGBoost** trained on historical sales |
+| 💰 Price Recommendation | Intelligent pricing engine based on AI insights & competitor data |
+| 🏷️ Promotion Engine | Automated promotion recommendation system |
+| 🔍 Competitor Monitoring | Scraping pipeline with product matching for competitive intelligence |
+| 📊 Business KPIs | Sales analytics dashboards for data-driven decisions |
+| 🔐 Security | JWT authentication + Role-Based Access Control (RBAC) |
+| 🐳 DevOps | Fully Dockerized microservices architecture |
 
 ---
 
-## ⌘ What I Build
+## 🧠 Technical Skills
 
-```text
-Web Applications        → dashboards, admin panels, business platforms
-Mobile Applications     → Flutter and React Native applications
-Backend Systems         → REST APIs, authentication, data processing
-AI-Powered Features     → predictions, recommendations, decision support
-Database Solutions      → relational and NoSQL database integration
+### 💻 Languages
+
+![Java](https://img.shields.io/badge/Java-FF6F61?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-F18E33?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🏗️ Frameworks & Platforms
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🛠️ Tools & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+---
+
+## 📁 Other Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 💄 [GlowUp App](https://github.com/malekbenhassine/backGlowUpApp.git) | Beauty & wellness mobile platform with booking system | Flutter · Spring Boot |
+| 🎫 [eventGo](https://github.com/malekbenhassine/proje-eventgo-node-flutter.git) | Full-featured event management mobile app | Flutter · Node.js |
+| 🌿 [EcoAction](https://github.com/malekbenhassine/projetEcoAction.git) | Eco-awareness mobile application with Firebase backend | Android Studio · Firebase |
+| ⚽ [Rapido Sport](https://github.com/malekbenhassine/projet-rapido-sport.git) | Sports club management web platform | Angular · Spring Boot |
+| 👜 [Canta E-Commerce](https://github.com/malekbenhassine/Projet_Canta_Angular.git) | Online bag store with product catalog & cart | Angular |
+| 🏦 [Credit Vermeg](https://github.com/malekbenhassine/projet-credit-vermeg.git) | Agricultural bank credit management system | Angular · Spring Boot |
+| 🏥 [Mediplus](https://github.com/malekbenhassine/projet-mediplus-springboot.git) | Medical appointment management backend | Spring Boot |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Malek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=malekbenhassine&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malekbenhassine&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malekbenhassine&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 💡 What I Bring to a Team
+
+```
+✔  Ship full-stack features independently (UI to DB to ML pipeline)
+✔  Design clean REST APIs with FastAPI & Spring Boot
+✔  Translate business problems into data-driven AI solutions
+✔  Build secure, role-aware systems with JWT & RBAC
+✔  Work with modern frontend ecosystems (React, Angular, TypeScript)
+✔  Deploy and maintain Dockerized microservices
+✔  Communicate clearly in English, French & Arabic
 ```
 
 ---
 
-## ◍ GitHub Activity
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malekbenhassine\&show_icons=true\&theme=github_dark\&hide_border=true)
+**Open to internships, junior roles, and exciting collaborations.**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malekbenhassine\&layout=compact\&theme=github_dark\&hide_border=true)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malek-ben-hassine-053106287/)
+[![Email](https://img.shields.io/badge/Send%20a%20Message-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benhassinemelek33@gmail.com)
 
-</div>
-
----
-
-## ⟡ Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malek%20Ben%20Hassine-0f172a?style=for-the-badge\&logo=linkedin\&logoColor=60a5fa)](https://www.linkedin.com/in/malek-ben-hassine-053106287/)
-[![Email](https://img.shields.io/badge/Email-benhassinemelek33%40gmail.com-0f172a?style=for-the-badge\&logo=gmail\&logoColor=f87171)](mailto:benhassinemelek33@gmail.com)
+*"Code is a craft. Build it like you mean it."*
 
 </div>
