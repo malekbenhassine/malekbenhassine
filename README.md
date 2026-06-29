@@ -27,11 +27,11 @@
 
 > *"I don't just write code — I build solutions that solve real problems."*
 
-I'm a **Final Year Information Systems student** with a strong passion for building **scalable, clean and useful applications**.
+I'm an **Information Systems Development graduate with High Honors**, with a strong passion for building **scalable, clean and useful applications**.
 
 My work covers **frontend development, backend APIs, mobile applications, databases, authentication systems, microservices and AI-powered features**.
 
-* 🎓 Graduating in **Information Systems Development**
+* 🎓 Graduated in **Information Systems Development** with **High Honors / Mention Très Bien**
 * 🏗️ Building full stack applications with **React, Angular, FastAPI, Spring Boot and Node.js**
 * 📱 Developing mobile apps with **Flutter** and **React Native**
 * 🔐 Creating secure systems with **JWT authentication** and **role-based access control**
