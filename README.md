@@ -42,42 +42,56 @@ My work covers **frontend development, backend APIs, mobile applications, databa
 
 ## 🧠 Technical Skills
 
-### 💻 Languages
+### ⟡ Languages
 
-![Java](https://img.shields.io/badge/Java-FF6F61?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge\&logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-F18E33?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-FF5C5C?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-F97316?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
 
-### 🏗️ Frameworks & Platforms
+---
 
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-111827?style=for-the-badge\&logo=angular\&logoColor=DD0031)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge\&logo=springboot\&logoColor=6DB33F)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge\&logo=fastapi\&logoColor=009688)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge\&logo=node.js\&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge\&logo=express\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-111827?style=for-the-badge\&logo=flutter\&logoColor=02569B)
-![React Native](https://img.shields.io/badge/React%20Native-111827?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+### ⟡ Frameworks & Platforms
 
-### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-00B894?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-2D3436?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-42A5F5?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-7DD3FC?style=for-the-badge&logo=react&logoColor=111827" />
+</p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2937?style=for-the-badge\&logo=postgresql\&logoColor=93c5fd)
-![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=for-the-badge\&logo=mysql\&logoColor=60a5fa)
-![MongoDB](https://img.shields.io/badge/MongoDB-1f2937?style=for-the-badge\&logo=mongodb\&logoColor=86efac)
-![Oracle](https://img.shields.io/badge/Oracle-1f2937?style=for-the-badge\&logo=oracle\&logoColor=f87171)
-![Firebase](https://img.shields.io/badge/Firebase-1f2937?style=for-the-badge\&logo=firebase\&logoColor=facc15)
+---
 
-### 🛠️ Tools & DevOps
+### ⟡ Databases
 
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge\&logo=docker\&logoColor=7dd3fc)
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge\&logo=git\&logoColor=fb7185)
-![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge\&logo=github\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0f172a?style=for-the-badge\&logo=python\&logoColor=facc15)
-![JWT](https://img.shields.io/badge/JWT-0f172a?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-00A86B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" />
+</p>
+
+---
+
+### ⟡ Tools & DevOps
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF7A00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-8B5CF6?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
 
 ---
 
